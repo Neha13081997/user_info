@@ -1,0 +1,7 @@
+.swal2-toast .swal2-close{
+    display: block !important;
+}
+.validation-error-block{
+    --tz-text-opacity: 1;
+    color: rgba(var(--tz-danger-rgb), var(--tz-text-opacity)) !important;
+}
